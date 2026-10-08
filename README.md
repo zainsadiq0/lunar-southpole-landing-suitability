@@ -91,4 +91,5 @@ Yash is running a first-order delta-v analysis for Site07 in MATLAB, using the s
 
 ## Author
 
-Zain Sadiq, Rutgers University. Engineering analysis: Yash.
+Geospatial Data Analysis: Zain Sadiq, Rutgers University
+Aerospace Engineering Analysis: Yash Agrawal
