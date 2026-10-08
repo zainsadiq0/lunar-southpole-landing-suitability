@@ -2,7 +2,7 @@
 
 **A multi-criteria GIS suitability analysis of five Artemis III candidate landing regions, with a companion delta-v feasibility screen.**
 
-By **Zain Sadiq** (Rutgers University, Informatics and Geography/GIS), with engineering analysis by **Yash**.
+By **Zain Sadiq** (Rutgers University, Informatics and Geography/GIS), with engineering analysis by **Yash Agrawal**.
 
 > Independent academic project. Not affiliated with or endorsed by NASA. All inputs are public NASA LRO data products.
 
