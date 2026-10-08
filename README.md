@@ -4,7 +4,7 @@
 
 By Zain Sadiq (Rutgers University, Informatics and Geography/GIS), with engineering analysis by Yash Agrawal.
 
-**NOT AFFICILITED WITH OR ENDORSED BY NASA**
+**NOT AFFILIATED WITH OR ENDORSED BY NASA**
 
 > Independent academic project. All inputs are public NASA LRO data products.
 
