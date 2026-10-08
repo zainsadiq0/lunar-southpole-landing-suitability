@@ -1,5 +1,3 @@
-yash_engineering_data - Site07 (Peak Near Shackleton)
-Prepared b Zain Sadiq for the joint lunar south pole landing site project.
 
 FILES
 site_summary.csv     Elevation and slope statistics computed over the Site07 ROI polygon.
