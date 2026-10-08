@@ -1,0 +1,2 @@
+site_id,site_name,area_km2,pixel_count,elev_min_m,elev_mean_m,elev_max_m,elev_std_m,elev_median_m,elev_p90_m,slope_mean_deg,slope_median_deg,slope_std_deg,slope_p90_deg,slope_max_deg,pct_area_slope_lt5deg,pct_area_slope_lt10deg
+Site07,Peak Near Shackleton,255.68,10227204,-418.916534,800.552842,1648.67981,453.030917,904.077026,1340.369263,10.740406,10.606509,4.698326,16.853607,60.48415,11.7146,45.2014
