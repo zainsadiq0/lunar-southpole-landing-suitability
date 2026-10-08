@@ -6,7 +6,7 @@
 
 # DATA SOURCE
 - NASA LOLA / LRO site-specific 5 m per pixel DEM and slope products (PGDA).
-- Site07_final_adj_5mpp_surf.tif (elevation), Site07_final_adj_5mpp_slp.tif (slope).
+- All data retrieved from NASA's official website. Please refer there to collect Lunar DEM data.
 
 # UNITS AND REFERENCE
 - Elevation: meters, relative to the lunar reference sphere (radius 1,737.4 km).
