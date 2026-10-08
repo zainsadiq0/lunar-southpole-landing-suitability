@@ -4,7 +4,9 @@
 
 By Zain Sadiq (Rutgers University, Informatics and Geography/GIS), with engineering analysis by Yash Agrawal.
 
-> Independent academic project. Not affiliated with or endorsed by NASA. All inputs are public NASA LRO data products.
+**NOT AFFICILITED WITH OR ENDORSED BY NASA**
+
+> Independent academic project. All inputs are public NASA LRO data products.
 
 ![Overview of the five candidate landing regions near the lunar south pole](images/01_overview_map.png)
 
