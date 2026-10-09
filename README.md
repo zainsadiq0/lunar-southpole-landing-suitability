@@ -92,7 +92,7 @@ Yash Agrawal's MATLAB simulation estimates that landing at Site07's coordinates 
 | Landing error | 3.7 m (limit 100 m) |
 | Mass above assumed dry mass at touchdown | about 17,737 kg |
 
-**Method.** An impulsive deorbit from the 100 km orbit to a 15 km perilune, a two-body coast, then a finite-thrust, feedback-guided descent integrated with MATLAB `ode45`. A grid search of 80 combinations of descent start point and guidance time found 72 that met the constraints (touchdown at or below 2 m/s, error at or below 100 m, final mass at or above 125,000 kg). The reported case is the lowest-propellant one with touchdown at or below 1.85 m/s. In 60 perturbed runs (ignition state, mass, thrust and specific impulse), all met the constraints; the perturbation sizes are illustrative, so this is not a reliability estimate.
+**Method.** An impulsive deorbit from the 100 km orbit to a 15 km perilune, a two-body coast, then a finite-thrust, feedback-guided descent integrated with MATLAB ode45. A grid search of 80 combinations of descent start point and guidance time found 72 that met the constraints (touchdown at or below 2 m/s, error at or below 100 m, final mass at or above 125,000 kg). The reported case is the lowest-propellant one with touchdown at or below 1.85 m/s. In 60 perturbed runs (ignition state, mass, thrust and specific impulse), all met the constraints; the perturbation sizes are illustrative, so this is not a reliability estimate.
 
 **Assumptions.** The vehicle inputs are illustrative, not verified HLS specifications: 250,000 kg initial mass, 120,000 kg dry mass, 2 MN maximum thrust, 350 s specific impulse, 10% minimum throttle. Under them the landing closes with about 17.7 t of propellant above dry mass, roughly 14% of the assumed usable propellant. The result depends directly on these numbers, so it is a first-order screen, not a statement about what HLS can do.
 
@@ -108,4 +108,5 @@ Yash Agrawal's MATLAB simulation estimates that landing at Site07's coordinates 
 
 ## Author
 
-Zain Sadiq, Rutgers University. Engineering analysis: Yash Agrawal.
+Geospatial Analysis: Zain Sadiq - Rutgers University 
+Aerospace Engineering analysis: Yash Agrawal - Rutgers University
