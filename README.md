@@ -2,7 +2,7 @@
 
 **A multi-criteria GIS suitability and Engineering analysis of five Artemis III candidate landing regions**
 
-By **Zain Sadiq** (Rutgers University, Informatics and Geography/GIS), with engineering analysis by **Yash Agrawal**.
+By **Zain Sadiq** producing geospatial data analysis, and **Yash Agrawal** with engineering analysis.
 
 **NOT AFFILIATED OR SUPPORTED BY NASA**
 
