@@ -1,10 +1,12 @@
 # Lunar South Pole Landing Site Suitability
 
-**A multi-criteria GIS suitability analysis of five Artemis III candidate landing regions, with a companion delta-v feasibility screen.**
+**A multi-criteria GIS suitability and Engineering analysis of five Artemis III candidate landing regions**
 
 By **Zain Sadiq** (Rutgers University, Informatics and Geography/GIS), with engineering analysis by **Yash Agrawal**.
 
-> Independent academic project. Not affiliated with or endorsed by NASA. All inputs are public NASA LRO data products.
+**NOT AFFILIATED OR SUPPORTED BY NASA**
+
+> Independent academic projectAll inputs are public NASA LRO data products.
 
 ![Overview of the five candidate landing regions near the lunar south pole](images/01_overview_map.png)
 
