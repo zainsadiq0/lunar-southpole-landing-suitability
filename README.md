@@ -4,7 +4,7 @@
 
 By **Zain Sadiq** producing geospatial data analysis, and **Yash Agrawal** with engineering analysis.
 
-**NOT AFFILIATED OR SUPPORTED BY NASA**
+**NOT AFFILIATED OR SUPPORTED BY NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)**
 
 > Independent academic projectAll inputs are public NASA LRO data products.
 
