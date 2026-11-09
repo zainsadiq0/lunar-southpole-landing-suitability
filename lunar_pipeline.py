@@ -10,21 +10,6 @@ Automates the quantitative steps of the project outside ArcGIS Pro:
   4. Delta-v / propellant screen: impulsive deorbit from the rocket equation,
      combined with the powered-descent propellant from Yash Agrawal's MATLAB
      model (hls_integrated_descent_v17.m)
-
-What it does NOT do
-  - Reclassify raw rasters. Your ArcGIS reclass breakpoints are not stored
-    anywhere in this project, so the script expects criterion rasters that are
-    ALREADY on the 1-10 scale. A reclassify() helper is included if you want to
-    redo that step here; you must supply the bins.
-  - Run the powered-descent simulation. That is Yash's MATLAB model; its result
-    (propellant used) is an input in config.json.
-  - Make the ArcGIS layouts (maps) or the portfolio page.
-
-Usage
-  python lunar_pipeline.py config.json
-  python lunar_pipeline.py --write-example-config > config.json
-
-Dependencies: numpy, matplotlib; rasterio (only for the raster step).
 """
 import argparse
 import csv
